@@ -1,0 +1,4 @@
+business-plan-app/node_modules/
+business-plan-app/.next/
+business-plan-app/.env.local
+!business-plan-app/.env.example
